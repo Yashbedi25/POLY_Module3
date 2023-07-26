@@ -1,0 +1,13 @@
+[
+  {
+    "name": "YashCircuit",
+    "protocol": "groth16",
+    "circuit": "YashCircuit/circuit.circom",
+    "input": "YashCircuit/input.json",
+    "wasm": "YashCircuit/out/circuit.wasm",
+    "zkey": "YashCircuit/out/YashCircuit.zkey",
+    "vkey": "YashCircuit/out/YashCircuit.vkey",
+    "r1cs": "YashCircuit/out/YashCircuit.r1cs",
+    "beacon": "0102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f"
+  }
+]
